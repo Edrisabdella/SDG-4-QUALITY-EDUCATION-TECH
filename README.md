@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+OpenLearn – Inclusive Peer-to-Peer Digital Education Platform
 <html lang="en">
 <head>
     <meta charset="UTF-8">
